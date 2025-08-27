@@ -90,8 +90,8 @@ void imprimirMatriz(int** matriz, int tamaño) {
 
 int main() {
     //tamaño de matriz y cantidad de hilos
-    const int dimension_matriz = 20;
-    const int cantidad_hilos = 10;
+    const int dimension_matriz = 500;
+    const int cantidad_hilos = 50;
     
 
     // Crear y llenar matriz
